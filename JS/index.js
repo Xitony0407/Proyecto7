@@ -1,3 +1,4 @@
+
 let resultado = document.getElementById('resultado');
 
 let asignar = (valor) => {
